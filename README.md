@@ -26,3 +26,22 @@ Fragment2 qui contient :
 - 1 TextView : pour afficher le "Last Name" saisi
 
 N.B : Utiliser la méthode Bundle
+
+Exercice 3 (Activity to fragment)
+Créer une application nommée ActivityToFragment qui contient une activité ayant : 
+- 1 EditText
+- 1 bouton "Show" 
+- 1 FramLayout : pour afficher le Fragment 
+Lorsque qu’on clique sur le bouton "Show", envoyer l’EditText saisi au Fragment1 qui 
+remplace le FramLayout.
+N.B : Utiliser la méthode Bundle 
+
+exercice 4 (fragment to activity)
+Créer une application nommée FragmentToActivity qui contient une activité ayant : 
+- 1 TextView : "Enter your name" 
+- 1 Fragment : lié au Fragment1 
+Fragment1 contient : 
+- 1 EditText
+- 1 bouton "Show" 
+Lorsque qu’on clique sur le bouton "Show", envoyer l’EditText saisi à l’activité et 
+afficher dans le TextView "Your name is xxx", xxx est le text saisi dans Fragment1
