@@ -2,7 +2,7 @@
 Exercices  Passing Data between 2 fragments
 
 Exercice 1 (fragment Listview)
-
+-----------------------------------
 Créer une application nommée ListFragment qui contient une activité ayant 2 fragment
 (L’orientation est horizontale) 
 Le 1er fragment contient une ListView, le 2ème contient 2 TextView 
@@ -12,7 +12,7 @@ afficher dans les TextView du 2ème fragment le prénom et le profile correspond
 
 
 Exercice 2 (Fragment to fragment)
-
+---------------------------------------
 Créer une application nommée FragmentToFragment qui contient une activité ayant un 
 fragment (Fragment1) 
 Ce Fragment1 contient : 
@@ -28,6 +28,7 @@ Fragment2 qui contient :
 N.B : Utiliser la méthode Bundle
 
 Exercice 3 (Activity to fragment)
+-----------------------------------
 Créer une application nommée ActivityToFragment qui contient une activité ayant : 
 - 1 EditText
 - 1 bouton "Show" 
